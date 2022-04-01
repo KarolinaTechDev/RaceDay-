@@ -1,2 +1,2 @@
 # RaceDay-
-Race day times fro different age groups
+Race day times for different age groups
